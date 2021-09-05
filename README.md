@@ -1,6 +1,6 @@
 # javaFastInputOutputBoilerPlate
 
-public static class FastReader{
+    public static class FastReader{
         BufferedReader br;
         StringTokenizer st;
         public FastReader(){
